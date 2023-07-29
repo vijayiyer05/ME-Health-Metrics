@@ -2,7 +2,7 @@
 
 # ME-Health-Metrics
 Analysis live scripts for health metrics tracking my progress with ME &amp; POTS  
-<sub>**ME**: Myalgic Encephalomyelitis **POTS**:Postural Orthostatic Tachycardia Syndrome **Live script**: a MATLAB™️ computational notebook file</sub>
+<sub>**ME**: Myalgic Encephalomyelitis **POTS**:Postural Orthostatic Tachycardia Syndrome **Live script**: a [MATLAB]([url](https://www.mathworks.com/products/matlab.html)) computational notebook file</sub>
 
 
 
