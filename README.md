@@ -1,8 +1,8 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 # ME-Health-Metrics
-Analysis notebooks for health metrics tracking my progress with ME &amp; POTS  
-<sub>ME: Myalgic Encephalomyelitis POTS:Postural Orthostatic Tachycardia Syndrome</sub>
+Analysis live scripts for health metrics tracking my progress with ME &amp; POTS  
+<sub>**ME**: Myalgic Encephalomyelitis **POTS**:Postural Orthostatic Tachycardia Syndrome **Live script**: a MATLAB™️ computational notebook file</sub>
 
 
 
