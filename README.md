@@ -7,7 +7,7 @@ Analysis live scripts for health metrics tracking my progress with ME &amp; POTS
 ## Analysis Live Scripts
 |**Analysis**|**View**|**Run**|**Notes**|  
 | --- | --- | --- | --- |
-| Incapacity Episodes|  | [▶️](https://matlab.mathworks.com/open/github/v1?repo=vijayiyer05/ME-Health-Metrics&file=IncapacityEpisodes_since2022.mlx)| |
+| Incapacity Episodes|  | [▶️](https://matlab.mathworks.com/open/github/v1?repo=vijayiyer05/ME-Health-Metrics&file=IncapacityEpisodes_since2022.mlx)| Incapacity = cognitive + physical|
 
 
 #### License Info
