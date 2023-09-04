@@ -8,6 +8,7 @@ Analysis live scripts for health metrics tracking my progress with ME &amp; POTS
 |**Analysis**|**View**|**Run**|**Notes**|  
 | --- | --- | --- | --- |
 | Incapacity Episodes|  | [▶️](https://matlab.mathworks.com/open/github/v1?repo=vijayiyer05/ME-Health-Metrics&file=IncapacityEpisodes_since2022.mlx)| Incapacity = cognitive + physical|
+| Steps |  | [▶️](https://matlab.mathworks.com/open/github/v1?repo=vijayiyer05/ME-Health-Metrics&file=Steps.mlx)| via Garmin fitness band|
 
 
 #### License Info
