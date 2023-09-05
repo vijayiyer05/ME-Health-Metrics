@@ -11,7 +11,7 @@ Analysis live scripts for health metrics tracking my progress with ME &amp; POTS
 | Steps |  | [▶️](https://matlab.mathworks.com/open/github/v1?repo=vijayiyer05/ME-Health-Metrics&file=Steps.mlx)| via Garmin fitness band|
 
 ## About Tracking Data
-Tracking data is located on a public personal AWS S3 bucket at s3://vijayiyer05-me-health-metrics.
+Tracking data is located on a public personal AWS S3 bucket at the URI s3://vijayiyer05-me-health-metrics. 
 
 #### License Info
 This work is licensed under a
