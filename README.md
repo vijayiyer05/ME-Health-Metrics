@@ -7,8 +7,8 @@ Analysis live scripts for health metrics tracking my progress with ME &amp; POTS
 ## Analysis Live Scripts
 |**Analysis**|**View**|**Run**|**Notes**|  
 | --- | --- | --- | --- |
-| Incapacity Episodes| [👀](https://viewer.mathworks.com/?viewer=live_code&url=https%3A%2F%2Fwww.mathworks.com%2Fmatlabcentral%2Fmlc-downloads%2Fdownloads%2Fbea90c71-f4bd-47f5-b9cc-0a1d11a2c08d%2F1707113312%2Ffiles%2FIncapacityEpisodes_since2022.mlx&embed=web) | [▶️](https://matlab.mathworks.com/open/github/v1?repo=vijayiyer05/ME-Health-Metrics&file=IncapacityEpisodes_since2022.mlx)| Incapacity = cognitive + physical|
-| Steps |[👀](https://viewer.mathworks.com/?viewer=live_code&url=https%3A%2F%2Fwww.mathworks.com%2Fmatlabcentral%2Fmlc-downloads%2Fdownloads%2Fbea90c71-f4bd-47f5-b9cc-0a1d11a2c08d%2F1707113312%2Ffiles%2FSteps.mlx&embed=web)| [▶️](https://matlab.mathworks.com/open/github/v1?repo=vijayiyer05/ME-Health-Metrics&file=Steps.mlx)| via Garmin fitness band|
+| Incapacity Episodes| [👀](https://viewer.mathworks.com/?viewer=live_code&url=https%3A%2F%2Fwww.mathworks.com%2Fmatlabcentral%2Fmlc-downloads%2Fdownloads%2Fbea90c71-f4bd-47f5-b9cc-0a1d11a2c08d%2F1707372521%2Ffiles%2FIncapacityEpisodes_since2022.mlx&embed=web) | [▶️](https://matlab.mathworks.com/open/github/v1?repo=vijayiyer05/ME-Health-Metrics&file=IncapacityEpisodes_since2022.mlx)| Incapacity = cognitive + physical|
+| Steps |[👀](https://viewer.mathworks.com/?viewer=live_code&url=https%3A%2F%2Fwww.mathworks.com%2Fmatlabcentral%2Fmlc-downloads%2Fdownloads%2Fbea90c71-f4bd-47f5-b9cc-0a1d11a2c08d%2F1707372521%2Ffiles%2FSteps.mlx&embed=web)| [▶️](https://matlab.mathworks.com/open/github/v1?repo=vijayiyer05/ME-Health-Metrics&file=Steps.mlx)| via Garmin fitness band|
 
 ## About Health Tracking Data
 Health tracking data (used by the live scripts) are located on a public personal AWS S3 bucket at the URI _s3://vijayiyer05-me-health-metrics_. Files on the bucket are updated with up-to-date tracking data approximately monthly. 
